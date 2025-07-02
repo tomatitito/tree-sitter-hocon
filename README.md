@@ -1,7 +1,7 @@
 # Hocon grammar for [tree-sitter](https://github.com/tree-sitter/tree-sitter)
 
 ## Syntax highlighting
-Tree-sitter highting in Zed. This is work in progress. As of now, you can clone this repository and install as a dev extension.
+HOCON parser based on Tree-sitter. This is work in progress.
 
 ## Useful links
 [hocon-playground](https://hocon-playground.herokuapp.com/)  
